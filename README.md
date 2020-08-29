@@ -11,6 +11,7 @@ For phpMyAdmin version 5.0
 ## Windows/macOS X
 
   Download and unzip the archive into pma themes folder
+  
 <b>XAMPP</b>
 xampp/phpMyAdmin/themes
 

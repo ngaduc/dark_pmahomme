@@ -16,7 +16,7 @@ For phpMyAdmin version 5.0
 xampp/phpMyAdmin/themes
 
 <b>MAMPP</b>
-/Applications/MAMP/bin/phpMyAdmin
+/Applications/MAMP/bin/phpMyAdmin/themes
 
 ## Linux (CentOS/Ubuntu/...)
 

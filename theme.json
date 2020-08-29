@@ -1,0 +1,8 @@
+{
+    "name": "dark_pmahomme",
+    "version": "5.0",
+    "description": "Dark Theme phpMyAdmin",
+    "author": "Nguyen Anh Duc",
+    "url": "https://redpervn.ga/",
+    "supports": ["5.0"]
+}

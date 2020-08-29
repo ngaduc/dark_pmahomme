@@ -1,5 +1,5 @@
 # dark_pmahomme
-The Dark Theme for phpMyAdmin - based theme pmahomme
+The Dark Theme for phpMyAdmin - based pmahomme theme
 
 <img src="https://github.com/ngaduc/dark_pmahomme/raw/master/screen.png">
 

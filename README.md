@@ -7,4 +7,4 @@ The Dark Theme for phpMyAdmin - based pmahomme theme
 For phpMyAdmin version 5.0
 
 # How to install
-Extract the archive and paste to themes folder in pma root folder
+## Windows/macOS X

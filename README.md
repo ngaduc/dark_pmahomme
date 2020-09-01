@@ -13,7 +13,9 @@ For phpMyAdmin version 5.0
   Download and unzip the archive into pma themes folder
   
 <b>XAMPP</b>
-xampp/phpMyAdmin/themes
+xampp\phpMyAdmin\themes
+
+Default XAMPP folder: C:\xampp\phpMyAdmin\themes
 
 <b>MAMPP</b>
 /Applications/MAMP/bin/phpMyAdmin/themes
